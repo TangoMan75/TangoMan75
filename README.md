@@ -63,16 +63,16 @@ I'm [Matthias](https://tangoman.io), a **freelance** self-taught **Full Stack We
 ## 📬 Contact me
 
 [![mat@tangoman.io](https://img.shields.io/badge/mat@tangoman.io-%23EA4335.svg?&style=flat&logo=mail.ru&logoColor=white)](mailto:mat@tangoman.io) 
-[![TangoMan.io](https://img.shields.io/badge/TangoMan.io-%23337AB7.svg?&style=flat&logo=google-chrome&logoColor=white)](https://tangoman.io) 
+[![TangoMan.io](https://img.shields.io/badge/TangoMan.io-%23337AB7.svg?&style=flat&logo=google-chrome&logoColor=white)]([portfolio]) 
 [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?&style=flat&logo=github&logoColor=white)](https://github.com/TangoMan75) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/matthiasmorin) 
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat&logo=twitter&logoColor=white)](https://twitter.com/tangomanparis)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white)]([linkedin]) 
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat&logo=twitter&logoColor=white)]([twitter])
 
 <!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=TangoMan75.TangoMan75) -->
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FTangoMan75&labelColor=%23697689&countColor=%2337d67a&style=flat)
 
 [lemonde]: https://www.lemonde.fr "LeMonde"
 [linkedin]: https://www.linkedin.com/in/matthiasmorin "LinkedIn"
-[twitter]: https://twitter.com/TangoMan75 "Twitter"
+[twitter]: https://twitter.com/tangomanparis "Twitter"
 [portfolio]: https://tangoman.io/ "Portfolio"
 [api-platform]: https://api-platform.com "Api-Platform"

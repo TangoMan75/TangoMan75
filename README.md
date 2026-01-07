@@ -38,13 +38,11 @@ I'm [Matthias](https://tangoman.io), a **Senior Full-Stack Web Developer** from 
 <span>
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TangoMan75&show_icons=1&count_private=true&hide_border=1&theme=nord&layout=compact" alt="Top Langs">
 </span>
--->
 
 ## 🏆 GitHub Profile Trophy
 
 [![Github Trophy](https://github-profile-trophy.vercel.app/?username=TangoMan75&row=1&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 
-<!--
 ## 🗂️ Highlight Projects
 
 <a href="https://github.com/TangoMan75/shoe">
